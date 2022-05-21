@@ -8,7 +8,7 @@ Feel free to add any additional analysis that you consider necessary and that is
 
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, so you just need to clone its repository to start. We strongly recomend using Gitpod to clone it by [clicking here](https://gitpod.io#https://github.com/4GeeksAcademy/realestate-datacleanup-exercise).
+This project comes with the necessary files to start working, so you just need to clone its repository to start. We strongly recomend using Gitpod to clone it by [clicking here](https://gitpod.io#https://4geeksacade-realestated-xuaxsq3hve4.ws-us45.gitpod.io/
 
 ## 📝 Instructions:
 
